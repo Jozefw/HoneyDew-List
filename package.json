@@ -1,0 +1,14 @@
+{
+  "name": "honeydew-api",
+  "version": "1.0.0",
+  "description": "Basic ToDo app, but for your honey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jozef Jericho Woroniecki",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.0"
+  }
+}
